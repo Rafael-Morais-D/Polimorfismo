@@ -1,0 +1,15 @@
+D:\VS Projetos\Polimorfismo\bin\Debug\net6.0\Polimorfismo.exe
+D:\VS Projetos\Polimorfismo\bin\Debug\net6.0\Polimorfismo.deps.json
+D:\VS Projetos\Polimorfismo\bin\Debug\net6.0\Polimorfismo.runtimeconfig.json
+D:\VS Projetos\Polimorfismo\bin\Debug\net6.0\Polimorfismo.dll
+D:\VS Projetos\Polimorfismo\bin\Debug\net6.0\Polimorfismo.pdb
+D:\VS Projetos\Polimorfismo\obj\Debug\net6.0\Polimorfismo.csproj.AssemblyReference.cache
+D:\VS Projetos\Polimorfismo\obj\Debug\net6.0\Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Projetos\Polimorfismo\obj\Debug\net6.0\Polimorfismo.AssemblyInfoInputs.cache
+D:\VS Projetos\Polimorfismo\obj\Debug\net6.0\Polimorfismo.AssemblyInfo.cs
+D:\VS Projetos\Polimorfismo\obj\Debug\net6.0\Polimorfismo.csproj.CoreCompileInputs.cache
+D:\VS Projetos\Polimorfismo\obj\Debug\net6.0\Polimorfismo.dll
+D:\VS Projetos\Polimorfismo\obj\Debug\net6.0\refint\Polimorfismo.dll
+D:\VS Projetos\Polimorfismo\obj\Debug\net6.0\Polimorfismo.pdb
+D:\VS Projetos\Polimorfismo\obj\Debug\net6.0\Polimorfismo.genruntimeconfig.cache
+D:\VS Projetos\Polimorfismo\obj\Debug\net6.0\ref\Polimorfismo.dll
